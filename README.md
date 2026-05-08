@@ -40,8 +40,7 @@ O DevCard permite que desenvolvedores criem cartões de visita digitais profissi
 
 ## Telas do Aplicativo
 
-### 1. Tela Inicial
-
+### 1. Tela Inicial (index.tsx)
 ![Tela Inicial](imagens/indextsx.png)
 
 **Descrição**: Tela de boas-vindas do aplicativo.
@@ -60,7 +59,7 @@ O DevCard permite que desenvolvedores criem cartões de visita digitais profissi
 
 ---
 
-### 2. Tela de Cadastro
+### 2. Tela de Cadastro (cadastro.tsx)
 
 ![Tela de Cadastro](imagens/cadastrotsx.png)
 
@@ -95,7 +94,7 @@ O DevCard permite que desenvolvedores criem cartões de visita digitais profissi
 
 ---
 
-### 3. Tela de Preview
+### 3. Tela de Preview (preview.tsx)
 
 ![Tela de Preview](imagens/previewtsx.png)
 
@@ -133,7 +132,7 @@ O DevCard permite que desenvolvedores criem cartões de visita digitais profissi
 
 ---
 
-### 4. Tela de Sucesso
+### 4. Tela de Sucesso (sucesso.tsx)
 
 ![Tela de Sucesso](imagens/sucessotsx.png)
 
@@ -163,7 +162,7 @@ O DevCard permite que desenvolvedores criem cartões de visita digitais profissi
 
 ---
 
-### 5. Tela Sobre
+### 5. Tela Sobre (sobre.tsx)
 
 ![Tela Sobre](imagens/sobretsx.png)
 
